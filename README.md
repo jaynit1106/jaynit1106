@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm a Computer Science Engineering sophomore at IIIT Dharwad, Karnataka .\
+🎓 &nbsp;I'm a Computer Science Engineering Student at IIIT Dharwad, Karnataka .\
 🌱 &nbsp;I'm a full stack Web Developer with knowledge in Machine Learning and Artificial Intelligence .\
 ✉️ &nbsp;You can shoot me an email at jaynitpatel11062001@gmail.com! I'll try to respond as soon as I can.\
 
